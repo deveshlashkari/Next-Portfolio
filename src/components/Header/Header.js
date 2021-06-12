@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Head from "next/head";
 import React from "react";
 import {
   AiFillGithub,
@@ -23,6 +24,9 @@ import { SocialIconsLink } from "../../constants/constants";
 
 const Header = () => (
   <Container>
+    <Head>
+      <title>Devesh Lashkari - Developer</title>
+    </Head>
     <Div1>
       <Link href="/">
         <a

@@ -9,17 +9,19 @@ import { Section } from "../styles/GlobalComponents";
 
 const Home = () => {
   return (
-    <Layout>
-      <Section grid>
-        <Hero />
-        <BgAnimation />
-      </Section>
-      <Timeline />
-      <Projects />
-      <Technologies />
+    <>
+      <Layout>
+        <Section grid>
+          <Hero />
+          <BgAnimation />
+        </Section>
+        <Timeline />
+        <Projects />
+        <Technologies />
 
-      <Acomplishments />
-    </Layout>
+        <Acomplishments />
+      </Layout>
+    </>
   );
 };
 

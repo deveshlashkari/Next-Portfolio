@@ -1,5 +1,14 @@
 export const projects = [
   {
+    title: "Portfolio Website v2",
+    description: "Updated version of portfolio website",
+    image: "/images/Portfolio-v2.png",
+    tags: ["Next.js", "styled-components"],
+    source: "https://github.com/deveshlashkari/Next-Portfolio",
+    visit: "https://devesh-portfolio.vercel.app/",
+    id: 0,
+  },
+  {
     title: "Dewas Beats Covid",
     description:
       "Dashboard that shows current updates for COVID-19 for Dewas City.",
@@ -7,7 +16,7 @@ export const projects = [
     tags: ["React", "Material-ui", "Axios"],
     source: "https://github.com/deveshlashkari/Dewas-Beats-Covid",
     visit: "https://dewas-beats-covid.vercel.app/",
-    id: 0,
+    id: 1,
   },
   {
     title: "Svastha-Dashboard",
@@ -17,7 +26,7 @@ export const projects = [
     tags: ["Next.js", "Material-ui", "Axios"],
     source: "https://github.com/deveshlashkari/Svastha-Dashboard-app",
     visit: "https://svastha-dashboard-app.vercel.app/",
-    id: 1,
+    id: 2,
   },
   {
     title: "Svastha",
@@ -27,7 +36,7 @@ export const projects = [
     tags: ["React", "Reactstrap", "Axios"],
     source: "https://svastha-react.vercel.app/",
     visit: "https://svastha-react.vercel.app/",
-    id: 2,
+    id: 3,
   },
   {
     title: "YouTube Clone",
@@ -36,22 +45,13 @@ export const projects = [
     tags: ["React", "Material-ui"],
     source: "https://github.com/deveshlashkari/YouTube-clone-react",
     visit: "https://github.com/deveshlashkari/YouTube-clone-react",
-    id: 3,
+    id: 4,
   },
   {
     title: "Portfolio Website v1",
     description: "First portfolio website",
     image: "/images/Devesh-Lashkari-Portfolio-v1.png",
     tags: ["HTML", "CSS", "Gulp"],
-    source: "https://github.com/deveshlashkari/deveshlashkari.github.io",
-    visit: "https://deveshlashkari.github.io",
-    id: 4,
-  },
-  {
-    title: "Portfolio Website v2",
-    description: "Updated version of portfolio website",
-    image: "/images/Portfolio-v2.png",
-    tags: ["Next.js", "styled-components"],
     source: "https://github.com/deveshlashkari/deveshlashkari.github.io",
     visit: "https://deveshlashkari.github.io",
     id: 5,

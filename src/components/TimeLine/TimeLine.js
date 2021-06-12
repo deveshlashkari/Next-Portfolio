@@ -1,4 +1,5 @@
 import React, { useState, useRef, useEffect } from "react";
+import Head from "next/head";
 
 import { LeftSection, Img } from "./TimeLineStyles";
 import {
