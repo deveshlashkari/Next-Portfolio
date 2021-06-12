@@ -111,7 +111,7 @@ export const ExperienceData = [
     date: "January 2020 - April 2021",
   },
   {
-    title: "Associate Software Engineer",
+    title: "Associate Software Engineer - Trainee",
     location: "India, India",
     description:
       "Worked on Salesforce Admin and created Accounts, Contacts, opportunities, Profiles, Users, Permission - sets, Custom Objects, etc. Worked on Apex language and written Apex code, SOQL, SOSL Queries, and test classes. Learned Lightning Web Components (LWC) and created reusable components",
