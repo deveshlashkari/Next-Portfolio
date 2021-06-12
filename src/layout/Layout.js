@@ -9,6 +9,10 @@ export const Layout = ({ children }) => {
     <Container>
       <Head>
         <meta property="og:title" content="Devesh Lashkari" key="title" />
+        <meta
+          property="og:image"
+          content="https://i.ibb.co/4MYTT66/Portfolio-v2.png"
+        />
       </Head>
       <Header />
       <main>{children}</main>
