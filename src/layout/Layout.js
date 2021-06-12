@@ -8,7 +8,7 @@ export const Layout = ({ children }) => {
   return (
     <Container>
       <Head>
-        <meta property="og:title" content="My page title" key="title" />
+        <meta property="og:title" content="Devesh Lashkari" key="title" />
       </Head>
       <Header />
       <main>{children}</main>
